@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/52453558/81879523-6bbaec00-9561-11ea-83ab-d2d1949a4556.png">
-</p>
+![death-for-dummies](https://user-images.githubusercontent.com/52453558/81514116-94de4100-9303-11ea-8859-ba22968793ad.gif)
 
 ### Links úteis:
 - [Compondo funções em JavaScript](http://cangaceirojavascript.com.br/compondo-funcoes-javascript/)
@@ -8,4 +6,6 @@
 - [ECMAScript 6: O melhor jeito de iterar arrays](https://imasters.com.br/desenvolvimento/ecmascript-6-conheca-os-novos-loops)
 - [Filter, Map e Reduce – O Guia Supremo](https://devsamurai.com.br/javascript-filter-map-reduce-guia-supremo/)
 
-![death-for-dummies](https://user-images.githubusercontent.com/52453558/81514116-94de4100-9303-11ea-8859-ba22968793ad.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/52453558/81879523-6bbaec00-9561-11ea-83ab-d2d1949a4556.png">
+</p>
